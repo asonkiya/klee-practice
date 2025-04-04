@@ -1,4 +1,4 @@
-// Loop behaivior exploration
+// Loop behaivior exploration Practice
 #include <klee/klee.h>
 #include <assert.h>
 
